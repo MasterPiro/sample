@@ -16,7 +16,7 @@
 }
 
 a{
-    color: #16a085;
+    color: #2980b9;
 }
 
 h1{
@@ -35,7 +35,7 @@ h2, h3, h4{
 }
 
 .page-header{
-    background-color: #16a085;
+    background-color: #2980b9;
     padding-top: 9px;
     padding-left: 9px;
     padding-right: 9px;
@@ -56,7 +56,7 @@ h2, h3, h4{
 }
 
 .table-bordered>thead {
-    background-color:  #1abc9c;
+    background-color: #3498db;
     color: #ecf0f1;
 }
 .table-bordered>thead>tr>th {
